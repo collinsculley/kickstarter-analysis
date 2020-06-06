@@ -2,4 +2,4 @@
 
 ## An in-depth analysis of aplicable Kickstarter Campaigns for Louise
 
-![](OutcomeByLaunchDate.png)
+![](Images/OutcomeByLaunchDate.png)
