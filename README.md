@@ -4,7 +4,7 @@
 
 
 ### Impacts Of Campaign Launch Date
-#### Success and failure can vary throughout the year for all campaigns researched:  Technology, Theater, Food, Film, Etc.
+#### Success and failure can vary throughout the year for all industries in campaigns researched:  Technology, Theater, Food, Film, Etc.
 ![](Images/OutcomeByLaunchDate.png)
 
 #### Theater campaign breakdown
@@ -29,8 +29,11 @@ Based on data for play campaigns in Great Britain:
 * 50% of campaigns had a Goal of $2,000 or less
 * 75% of campaigns received $1,500 or less
 
+### Challenge
+#### Challenge Analysis
 
-## Recommendation
-After analyzing the relevant data provided, my recommendations for your campaign are:
+#### Conclusion and Recommendation
+After analyzing the relevant data provided, my conclusion and recommendations for your campaign are:
+* There was inconclusive analysis surrounding the specific play funding objectives.  A deeper look into the purpose of each play campaign, and their relation to funding goals, might provide further insight.
 * Launch US campaign in May, June, or July.  Avoid early and late months of the year.
 * Set campaign goal to $5,000 (US) based on US and Great Britain statistics
