@@ -31,7 +31,7 @@ Based on data for play campaigns in **Great Britain**:
 ### Challenge
 #### Challenge Analysis
 The data provided insight into Theater outcomes based on the time of year it was launched:
-![](OutcomesBasedOnLaunchDate.png)
+![](Images/OutcomesBasedOnLaunchDate.png)
 Global play outcomes were largely successful, but correlation to specific goal amounts was inconclusive:
 ![](Images/OutcomesBasedOnGoal.png)
 
