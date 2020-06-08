@@ -2,7 +2,7 @@
 
 ## An in-depth analysis of Kickstarter Campaigns to guide Louise in fundraising efforts.
 
-
+### Module Analysis
 ### Impacts Of Campaign Launch Date
 #### Success and failure can vary throughout the year for all industries in campaigns researched:  Technology, Theater, Food, Film, Etc.
 ![](Images/OutcomeByLaunchDate.png)
